@@ -7,7 +7,7 @@ string bf, af;
 
 
 int main() {
-	/*cin >> N;
+	cin >> N;
 	cin >> bf;
 	cin >> af;
 
@@ -19,7 +19,5 @@ int main() {
 		}
 	}
 	if (flag == 0)
-		cout << "Deletion succeeded" << endl;*/
-	int a = 1;
-	cout << !a << endl;
+		cout << "Deletion succeeded" << endl;
 }
