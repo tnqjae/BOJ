@@ -12,7 +12,7 @@ int main() {
 	cin >> af;
 
 	for (int i = 0; i < bf.size(); ++i) {
-		if ((bf.at(i) == af.at(i))^!(N&1)) {
+		if ((bf.at(i) == af.at(i)) ^! (N&1)) {
 			cout << "Deletion failed" << endl;
 			flag = 1;
 			break;
