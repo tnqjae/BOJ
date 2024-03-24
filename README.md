@@ -1,1 +1,1 @@
-백준 풀이 소스코드입니다.
+BeakJoon algorithm problem solve source code.
